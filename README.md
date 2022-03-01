@@ -1,6 +1,11 @@
 ### Hi there 👋
-### 🔭 I’m currently working for Danal (2022.03 ~ Now / Backend Developer)
-### 🏢 I worked for Covision (2021.07 ~ 2022.02 / JAVA Developer)
+
+### Work Experience 🏢
+
+- **Danal** - Backend Developer *(2022.03 ~ PRESENT)*
+
+- **Covision** - JAVA Developer *(2021.07 ~ 2022.02)*
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeYuHwan)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **LeeYuHwan/LeeYuHwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
