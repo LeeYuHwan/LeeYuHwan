@@ -4,9 +4,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbghksskfk)](https://solved.ac/dbghksskfk/)
 ### Work Experience 🏢
 
-- **Danal** - Backend Developer *(2022.03 ~ 2023.08) (JAVA (Servlet, Spring Boot batch Cache, JPA, Netty))*
+- **Danal** - Backend Developer *(2022.03 ~ 2023.08) - JAVA (Servlet, Spring Boot batch Cache, JPA, Netty)*
 
-- **Covision** - JAVA Developer *(2021.07 ~ 2022.02) (JAVA (Spring), JS)*
+- **Covision** - JAVA Developer *(2021.07 ~ 2022.02) - JAVA (Spring), JS*
 
 <!--
 **LeeYuHwan/LeeYuHwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
