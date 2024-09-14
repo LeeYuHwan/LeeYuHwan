@@ -5,8 +5,6 @@
 ### My Career 🏢
 - **Canon Korea** - Software Researcher *(2024.09 ~ PRESENT)*
 
-- **Surgery, Study** - *(2023.09 ~ 2024.08)*
-
 - **Danal** - Backend Developer *(2022.03 ~ 2023.08) - JAVA (Servlet, Spring Boot batch Cache, JPA, Netty)*
 
 - **Covision** - JAVA Developer *(2021.07 ~ 2022.02) - JAVA (Spring), JS*
